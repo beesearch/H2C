@@ -4,7 +4,6 @@
 ### Application
 ```
 npm install
-npm install swagger-node-express
 ```
 
 ### Start the server
