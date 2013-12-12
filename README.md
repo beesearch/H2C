@@ -1,4 +1,5 @@
-#  H2C : Hive Control Center for monitoring and analysis bee backend api
+#  H2C : Hive Control Center 
+### For monitoring and analysis bee backend api
 
 ### Application
 ```
