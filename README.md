@@ -1,7 +1,7 @@
 #  H2C : Hive Control Center 
 #### For monitoring and analysis bee backend api
 
-### Application
+### Install H2C
 ```
 npm install
 ```
